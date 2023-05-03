@@ -1,0 +1,32 @@
+{
+    "C:\\test\\test1\\file_name.json": {
+        "object_type": "File",
+        "name": "file_name.json",
+        "parent": "test1",
+        "number_of_bytes": 856
+    },
+    "C:\\test\\test1\\file_name.json.json": {
+        "object_type": "File",
+        "name": "file_name.json.json",
+        "parent": "test1",
+        "number_of_bytes": 492
+    },
+    "C:\\test\\test1\\laft.txt": {
+        "object_type": "File",
+        "name": "laft.txt",
+        "parent": "test1",
+        "number_of_bytes": 11
+    },
+    "C:\\test\\test1\\pok.txt": {
+        "object_type": "File",
+        "name": "pok.txt",
+        "parent": "test1",
+        "number_of_bytes": 37
+    },
+    "C:\\test\\test1\\test4": {
+        "object_type": "Directory",
+        "name": "test4",
+        "parent": "test1",
+        "number_of_bytes": 15
+    }
+}

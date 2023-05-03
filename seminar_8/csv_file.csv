@@ -1,0 +1,6 @@
+created_path;object_type;name;parent;number_of_bytes
+C:\test\test1\file_name.json;File;file_name.json;test1;856
+C:\test\test1\file_name.json.json;File;file_name.json.json;test1;492
+C:\test\test1\laft.txt;File;laft.txt;test1;11
+C:\test\test1\pok.txt;File;pok.txt;test1;37
+C:\test\test1\test4;Directory;test4;test1;15
